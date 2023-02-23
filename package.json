@@ -1,0 +1,21 @@
+{
+  "name": "jest-ci-cd",
+  "version": "1.0.0",
+  "description": "test-ci-cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FernandoPinheiro03/jest-ci-cd"
+  },
+  "keywords": [
+    "n"
+  ],
+  "author": "fernando",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
